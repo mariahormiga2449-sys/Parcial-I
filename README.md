@@ -41,4 +41,4 @@ María Alejandra Hormiga Navarro
 Clonar el repositorio:
 
 ```bash
-git clone [URL_DE_TU_REPOSITORIO](https://github.com/mariahormiga2449-sys/Parcial-I/tree/main)
+git clone https://github.com/mariahormiga2449-sys/Parcial-I.git
